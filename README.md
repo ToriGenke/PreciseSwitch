@@ -30,6 +30,16 @@ Download the latest version from the [Releases](https://github.com/ToriGenke/Pre
 3. Follow the installation instructions.
 4. Launch Precise Switch.
 
+Running as Administrator
+
+Precise Switch normally runs without administrator privileges.
+If you need to switch keyboard layouts in applications running with elevated privileges, you may need to run Precise Switch as Administrator as well.
+To do so:
+Close Precise Switch.
+Right-click Precise Switch.exe.
+Select Run as administrator.
+Confirm the Windows User Account Control (UAC) prompt.
+
 ## Feedback and Support
 
 Found a bug or have an idea for an improvement?
