@@ -135,7 +135,7 @@ Precise Switch распространяется как бесплатное пр
 
 ---
 
-**Precise Switch — создано Tori Genke.**
+**Precise Switch — Создано на вайбкодинге и „да твою мать!“ — Tori Genke**
 
 ---
 
@@ -278,4 +278,4 @@ Please open an [Issue](https://github.com/ToriGenke/PreciseSwitch/issues) in the
 
 ---
 
-**Precise Switch — created by Tori Genke.**
+**Made with vibecoding and "да твою мать!" by Tori Genke.**
