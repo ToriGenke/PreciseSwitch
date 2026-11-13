@@ -91,7 +91,7 @@ Precise Switch работает в фоновом режиме и отображ
 
 ## Установка
 
-1. Откройте раздел [Releases](https://github.com/ToriGenke/PreciseSwitch/releases).
+1. Откройте раздел [Releases](https://github.com/ToriGenke/PreciseSwitch/releases/latest).
 2. Скачайте установщик последней версии `PreciseSwitch_Setup`.
 3. Запустите установщик.
 4. Следуйте инструкциям мастера установки.
@@ -234,7 +234,7 @@ This helps prevent conflicts between Windows system shortcuts and custom Precise
 
 ## Installation
 
-1. Open the [Releases](https://github.com/ToriGenke/PreciseSwitch/releases) page.
+1. Open the [Releases](https://github.com/ToriGenke/PreciseSwitch/releases/latest) page.
 2. Download the latest `PreciseSwitch_Setup` installer.
 3. Run the installer.
 4. Follow the setup wizard.
