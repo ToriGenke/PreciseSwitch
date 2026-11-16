@@ -71,7 +71,7 @@ Precise Switch работает в фоновом режиме и отображ
 - Беларуская
 - Français
 - Polski
-  Srpski
+- Srpski
 - Español
 - 日本語
 
@@ -149,7 +149,7 @@ Instead of relying on a limited set of built-in Windows shortcuts, you can confi
 
 The application runs in the background through the system tray and offers flexible configuration, protection against accidental triggers, and support for ten interface languages.
 
-**Version:** 3.4.0  
+**Version:** 3.4.2  
 **Created and developed by:** Tori Genke  
 **Platform:** Windows
 
@@ -212,6 +212,7 @@ The Precise Switch interface is available in ten languages:
 - Беларуская
 - Français
 - Polski
+- Serbian (Latin)
 - Español
 - 日本語
 - Srpski
@@ -248,15 +249,15 @@ Windows will request administrator approval when installing to `Program Files`.
 
 ### Settings
 
-![Precise Switch settings](screenshots/main-settings.png)
+![Precise Switch settings](main-settings.png)
 
 ### System tray icon
 
-![Precise Switch system tray icon](screenshots/tray-icon.png)
+![Precise Switch system tray icon](tray-icon.png)
 
 ### Interface language selection
 
-![Interface language selection](screenshots/languages.png)
+![Interface language selection](languages.png)
 
 ## License
 
